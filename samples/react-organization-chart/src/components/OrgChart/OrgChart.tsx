@@ -20,7 +20,6 @@ import {
 } from "@fluentui/react";
 
 
-
 import { getGUID } from "@pnp/common";
 import { useOrgChartStyles } from "./useOrgChartStyles";
 
